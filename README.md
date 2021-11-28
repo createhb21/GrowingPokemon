@@ -1,1 +1,1 @@
-### Practice @types/react-redux redux-thunk
+### practice @types/react-redux redux-thunk
